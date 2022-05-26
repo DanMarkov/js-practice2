@@ -1,2 +1,2 @@
 # js-practice2
-learngin js
+learning js
