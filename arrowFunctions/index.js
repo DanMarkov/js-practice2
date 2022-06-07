@@ -1,5 +1,5 @@
-const distro = "Manjaro";
+const fruits = ['apple', 'pineaplle', 'orange', 'banana'];
 
-let result = distro.substring(0,5);
-
-console.log(result);
+const [first, second, ...rest] = fruits;
+console.log(second);
+console.log(rest);
